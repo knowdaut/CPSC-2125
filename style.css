@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(112, 230, 122);
+}
+
+h1 {
+  color: rgb(255, 0, 0);
+  text-align: left;
+  font: italic bold 30px Georgia, serif;
+}
