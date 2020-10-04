@@ -12,11 +12,10 @@ h1 {
 .wrapper{
   display: grid;
   grid-gap: 10px;
-  grid-template-columns: 200px 200px 200px;
   grid-template-areas:
-    "header  header  header"
-    "links content content"
-    "footer  footer  footer";
+    "header  header"
+    "links content"
+    "footer  footer";
   background-color: #fff;
   color: #444;
 }
